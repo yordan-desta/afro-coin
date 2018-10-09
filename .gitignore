@@ -1,0 +1,5 @@
+.vscode/**
+/.vscode
+/afro-coin/.idea/**
+/afro-coin/__pycache__/**
+*.pyc
